@@ -6,6 +6,9 @@
   "repository": "https://github.com/Greenmouse-Experts/generate-models.git",
   "author": "Radi",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "mysql2": "^2.3.3",
     "sequelize": "^6.21.3",
